@@ -40,9 +40,9 @@ Soy un desarrollador Full Stack en formación con conocimientos en JavaScript, T
 - Proactividad y trabajo en equipo
 
 ## 📌 Proyectos Destacados
-🔹 **[Proyecto 1](https://github.com/PedroSzyk/PF-Henry-front)** -
-🔹 **[Proyecto 2](https://github.com/PedroSzyk/Sprint8-Back)** -
-🔹 **[Proyecto 3](https://github.com/PedroSzyk/Sprint8-Front)** -
+🔹 **[The Three Broomsticks - Front](https://github.com/PedroSzyk/PF-Henry-front)** -
+🔹 **[Wave Runners - Back](https://github.com/PedroSzyk/Sprint8-Back)** -
+🔹 **[Wave Runners - Front](https://github.com/PedroSzyk/Sprint8-Front)** -
 
 ## 🌱 En constante evolución
 Actualmente, estoy profundizando en:
