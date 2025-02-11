@@ -9,7 +9,7 @@ Soy un desarrollador Full Stack en formación con conocimientos en JavaScript, T
 - Next.js
 - Tailwind CSS
 - Redux & RTK Query
-- HTML5, CSS3, SASS
+- HTML5, CSS3
 - JavaScript (ES6+), TypeScript
 
 ### 🔹 **Desarrollo Backend**
@@ -17,7 +17,7 @@ Soy un desarrollador Full Stack en formación con conocimientos en JavaScript, T
 - Express.js
 - TypeORM
 - Autenticación con JWT y OAuth
-- API REST y GraphQL
+- API REST
 
 ### 🔹 **Bases de datos**
 - PostgreSQL
@@ -29,7 +29,7 @@ Soy un desarrollador Full Stack en formación con conocimientos en JavaScript, T
 - Docker
 - CI/CD
 - Scrum & Agile
-- Pruebas unitarias con Jest y Cypress
+- Pruebas unitarias con Jest
 - Control de versiones y trabajo colaborativo
 
 ## 💡 Habilidades interpersonales
