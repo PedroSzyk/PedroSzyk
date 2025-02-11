@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Pedro Szyk
 
-<!--
-**PedroSzyk/PedroSzyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Acerca de mí
+Soy un desarrollador Full Stack en formación con conocimientos en JavaScript, TypeScript, React, Next.js y Tailwind CSS. Actualmente, estoy participando en un bootcamp de programación web y busco mejorar mis habilidades en el desarrollo de software. Me motiva la resolución de problemas y la creación de soluciones eficientes mediante un código claro y bien estructurado.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías y herramientas
+### 🔹 **Desarrollo Frontend**
+- React.js
+- Next.js
+- Tailwind CSS
+- Redux & RTK Query
+- HTML5, CSS3, SASS
+- JavaScript (ES6+), TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 **Desarrollo Backend**
+- Node.js
+- Express.js
+- TypeORM
+- Autenticación con JWT y OAuth
+- API REST y GraphQL
+
+### 🔹 **Bases de datos**
+- PostgreSQL
+- MongoDB
+- Firebase
+
+### 🔹 **Herramientas y metodologías**
+- Git & GitHub
+- Docker
+- CI/CD
+- Scrum & Agile
+- Pruebas unitarias con Jest y Cypress
+- Control de versiones y trabajo colaborativo
+
+## 💡 Habilidades interpersonales
+- Capacidad de análisis y resolución de problemas
+- Comunicación clara y efectiva
+- Adaptabilidad y disposición para el aprendizaje continuo
+- Organización y gestión del tiempo
+- Proactividad y trabajo en equipo
+
+## 📌 Proyectos Destacados
+🔹 **[Proyecto 1](https://github.com/PedroSzyk/PF-Henry-front)** -
+🔹 **[Proyecto 2](https://github.com/PedroSzyk/Sprint8-Back)** -
+🔹 **[Proyecto 3](https://github.com/PedroSzyk/Sprint8-Front)** -
+
+## 🌱 En constante evolución
+Actualmente, estoy profundizando en:
+- Arquitectura de software y buenas prácticas de desarrollo
+- Optimización de lógica de programación
+- Patrones de diseño UX/UI
+- Creación de aplicaciones escalables y seguras
+- DevOps y despliegue en la nube (AWS, Vercel, Netlify)
+
+## 📫 ¿Cómo contactarme?
+- 📧 **Email:** [pedrozyk95@gmail.com)
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/pedro-saliwonezyk/)
+
+¡Gracias por visitar mi perfil! 🚀
