@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Pedro Szyk
+# 👋 ¡Hola! Soy Pedro Saliwonezyk
 
 ## 🚀 Acerca de mí
 Soy un desarrollador Full Stack en formación con conocimientos en JavaScript, TypeScript, React, Next.js y Tailwind CSS. Actualmente, estoy participando en un bootcamp de programación web y busco mejorar mis habilidades en el desarrollo de software. Me motiva la resolución de problemas y la creación de soluciones eficientes mediante un código claro y bien estructurado.
